@@ -2,7 +2,7 @@
 
 Universal Sonic Worlds License is a license to secure Sonic Worlds Engines. Previously there were no license for Sonic Worlds Engines but [Mastered YT Aditya](https://github.com/MYTAditya) has created this license. This license is distributed in two versions.
 
-### Version 1
+### [Version 1](https://github.com/MYTAditya/USW-License/blob/master/COPYING.USWLv1)
 
 The first version of Universal Sonic Worlds License. For this case, you have to add the engine's intro animation on your game and also have to add a notice about the license and copyright. This licence was replaced by version 2 of it. This licence provides permissions for commercial use, distribution, modification and private use and contains limitations for liability and warranty.
 
@@ -69,7 +69,7 @@ The first version of Universal Sonic Worlds License. For this case, you have to 
                                 END OF LICENSE TERMS
 ```
 
-### Version 2
+### [Version 2](https://github.com/MYTAditya/USW-License/blob/master/COPYING.USWLv2)
 
 This license removes the license and copyright notice condition to make similar condition for Sonic Worlds engine.
 
