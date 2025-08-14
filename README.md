@@ -1,4 +1,4 @@
-# Universal Sonic Worlds License
+# [Universal Sonic Worlds License](https://github.com/MYTAditya/USW-License/tree/master)
 
 Universal Sonic Worlds License is a license to secure Sonic Worlds Engines. Previously there were no license for Sonic Worlds Engines but [Mastered YT Aditya](https://github.com/MYTAditya) has created this license. This license is distributed in two versions.
 
